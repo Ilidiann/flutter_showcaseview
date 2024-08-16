@@ -4,7 +4,7 @@ import 'package:example/detailscreen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:showcaseview/showcaseview.dart';
-
+//modi
 void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
@@ -31,6 +31,7 @@ class MyApp extends StatelessWidget {
                   statusBarIconBrightness: Brightness.dark,
                   statusBarColor: Colors.white,
                 ),
+
               );
             }
           },
